@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Quintonn Rothmann 😎  
 
-<!--
-**quintonn/quintonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **While you are here, please check out my Open Source project [qBic](https://github.com/quintonn/qBic)**  
 
-Here are some ideas to get you started:
+I enjoy working 💻 on the following projects and technologies 💼:  
+ - C#/.Net 
+ - Java ☕
+ - JavaScript
+ - HTML and CSS 🕸️
+ - I recentely started re-learning C/C++ and I enjoy working with that
+ - Raspberry Pi 🍒 🥧
+ - Containers 📦
+ - Code that writes other code ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently looking to work on something exciting.  
+
+You can reach me on twitter @qrothmann or create a PR with any questions ❓
