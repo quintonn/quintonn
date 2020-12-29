@@ -11,6 +11,7 @@ I enjoy working 💻 on the following projects and technologies 💼:
  - Raspberry Pi 🍒 🥧
  - Containers 📦
  - Code that writes other code ⚙️
+ - Learning new technologies 📚 
 
 I am currently looking to work on something exciting.  
 
