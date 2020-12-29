@@ -13,6 +13,6 @@ I enjoy working 💻 on the following projects and technologies 💼:
  - Code that writes other code ⚙️
  - Learning new technologies 📚 
 
-I am currently looking to work on something exciting.  
+I am currently looking for something fun and exciting to work on, and am open to collaboration    
 
 You can reach me on twitter @qrothmann or create a PR with any questions ❓
