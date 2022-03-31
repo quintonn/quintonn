@@ -16,6 +16,3 @@ I enjoy working 💻 on the following projects and technologies 💼:
 I am currently looking for something fun and exciting to work on, and am open to collaboration    
 
 You can reach me on twitter @qrothmann or create a PR with any questions ❓
-
-Visitor Counter:  
-![](https://vistr.dev/badge?repo=quintonn.quintonn)
