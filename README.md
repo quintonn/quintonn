@@ -18,4 +18,4 @@ I am currently looking for something fun and exciting to work on, and am open to
 
 You can reach me on twitter @qrothmann or create a PR with any questions ❓
 
-If you want to take a look at my resume, you can find it **[here](/resume.md)**
+Feel free to take a look at my **[resume](/resume.md)**
