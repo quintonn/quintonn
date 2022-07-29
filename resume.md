@@ -8,6 +8,7 @@
 
 - Develop Custom **Java** Plug-in Components for existing Rhapsody software
 - Design & Develop Web Portals using **React/Typescript**
+- Build back-end, server-side, software using **NodeJS**, **Java** and **.NET**
 - Provide product demonstrations and presentations
 - Initiate & plan conformance and compliance certification and testing
 - Provide ongoing technical guidance to support and professional services
