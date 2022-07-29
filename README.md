@@ -18,4 +18,4 @@ I am currently looking for something fun and exciting to work on, and am open to
 
 You can reach me on twitter @qrothmann or create a PR with any questions ❓
 
-<sub><sup>This is a [test](https://github.com/quintonn/test.md)</sup></sub>
+<sub><sup>This is a [test](/test.md)</sup></sub>
