@@ -26,7 +26,7 @@
 - Provide team **JavaScript** programming guidance and training
 - Develop **.NET** drivers and modules
 - Provide customer training and workshops
-- **Rhapsody Expoert** Certified
+- **Rhapsody Expert** Certified
 - Deliver flagship HIE solution in Turkey
 -
 
