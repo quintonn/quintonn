@@ -28,7 +28,6 @@
 - Provide customer training and workshops
 - **Rhapsody Expert** Certified
 - Deliver flagship HIE solution in Turkey
--
 
 ### Feb 2009 - July 2013
 
